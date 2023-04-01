@@ -1,0 +1,6 @@
+-cp' 'C:\Users\LAB\AppData\Roaming\Code\User\workspaceStorage\de7354ac921d7413f78c77cb25656a51\redhat.java\jdt_ws\vyshnavi_e8ce4392\bin' 'PassengerAgeGroups'
+Error: Could not find or load main class PassengerAgeGroups
+PS C:\Users\LAB\Desktop\vyshnavi>  c:; cd 'c:\Users\LAB\Desktop\vyshnavi'; & 'C:\Program Files\Java\jdk1.8.0_151\bin\java.exe' '-cp' 'C:\Users\LAB\AppData\Roaming\Code\User\workspaceStorage\de7354ac921d7413f78c77cb25656a51\redhat.java\jdt_ws\vyshnavi_e8ce4392\bin' 'PassengerAgeGroups'
+Error: Could not find or load main class PassengerAgeGroups
+PS C:\Users\LAB\Desktop\vyshnavi>  c:; cd 'c:\Users\LAB\Desktop\vyshnavi'; & 'C:\Program Files\Java\jdk1.8.0_151\bin\java.exe' '-cp' 'C:\Users\LAB\AppData\Roaming\Code\User\workspaceStorage\de7354ac921d7413f78c77cb25656a51\redhat.java\jdt_ws\vyshnavi_e8ce4392\bin' 'PassengerAgeGroups'
+Error: Could not find or load main class PassengerAgeGroups
